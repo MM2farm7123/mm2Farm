@@ -1,1 +1,169 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _dnKgDqCIsfmU = a; end)); return(function(f,...)local u;local c;local r;local d;local o;local l;local e=24915;local n=0;local t={};while n<228 do n=n+1;while n<0xc3 and e%0x3832<0x1c19 do n=n+1 e=(e*806)%34429 local a=n+e if(e%0x3170)>0x18b8 then e=(e-0x381)%0xda3 while n<0xfe and e%0xd38<0x69c do n=n+1 e=(e*311)%17202 local d=n+e if(e%0x3502)>0x1a81 then e=(e*0x21f)%0x1c1a local e=86730 if not t[e]then t[e]=0x1 c={};end elseif e%2~=0 then e=(e*0x165)%0x4c50 local e=42992 if not t[e]then t[e]=0x1 l=(not l)and _ENV or l;end else e=(e*0x14)%0xb920 n=n+1 local e=74056 if not t[e]then t[e]=0x1 end end end elseif e%2~=0 then e=(e+0x3be)%0xa61c while n<0x20f and e%0x1e4a<0xf25 do n=n+1 e=(e-42)%23046 local r=n+e if(e%0x391c)<0x1c8e then e=(e+0xce)%0x68c2 local e=59250 if not t[e]then t[e]=0x1 o=string;end elseif e%2~=0 then e=(e*0x249)%0x11e1 local e=17154 if not t[e]then t[e]=0x1 d=function(t)local e=0x01 local function n(n)e=e+n return t:sub(e-n,e-0x01)end while true do local t=n(0x01)if(t=="\5")then break end local e=o.byte(n(0x01))local e=n(e)if t=="\2"then e=c.reykUYrb(e)elseif t=="\3"then e=e~="\0"elseif t=="\6"then l[e]=function(n,e)return f(8,nil,f,e,n)end elseif t=="\4"then e=l[e]elseif t=="\0"then e=l[e][n(o.byte(n(0x01)))];end local n=n(0x08)c[n]=e end end end else e=(e*0x195)%0x2cbf n=n+1 local e=81892 if not t[e]then t[e]=0x1 end end end else e=(e+0x141)%0x1f7a n=n+1 while n<0x3ae and e%0x3630<0x1b18 do n=n+1 e=(e-281)%26673 local d=n+e if(e%0x3486)>0x1a43 then e=(e+0xd7)%0x53fe local e=7987 if not t[e]then t[e]=0x1 u=tonumber;end elseif e%2~=0 then e=(e*0x35b)%0x3104 local e=97795 if not t[e]then t[e]=0x1 r="\4\8\116\111\110\117\109\98\101\114\114\101\121\107\85\89\114\98\0\6\115\116\114\105\110\103\4\99\104\97\114\112\101\118\86\76\115\83\72\0\6\115\116\114\105\110\103\3\115\117\98\107\85\89\114\118\101\76\98\0\6\115\116\114\105\110\103\4\98\121\116\101\82\81\65\90\107\99\98\121\0\5\116\97\98\108\101\6\99\111\110\99\97\116\68\75\114\116\85\118\82\77\0\5\116\97\98\108\101\6\105\110\115\101\114\116\67\117\115\99\112\71\101\75\5";end else e=(e-0x1c7)%0x6ca7 n=n+1 local e=55154 if not t[e]then t[e]=0x1 l=getfenv and getfenv();end end end end end e=(e+620)%21154 end d(r);local e={};for n=0x0,0xff do local t=c.pevVLsSH(n);e[n]=t;e[t]=n;end local function a(n)return e[n];end local t=(function(r,f)local o,t=0x01,0x10 local n={{},{},{}}local l=-0x01 local e=0x01 local d=r while true do n[0x03][c.kUYrveLb(f,e,(function()e=o+e return e-0x01 end)())]=(function()l=l+0x01 return l end)()if l==(0x0f)then l=""t=0x000 break end end local l=#f while e<l+0x01 do n[0x02][t]=c.kUYrveLb(f,e,(function()e=o+e return e-0x01 end)())t=t+0x01 if t%0x02==0x00 then t=0x00 c.CuscpGeK(n[0x01],(a((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+d)%0x100)));d=r+d;end end return c.DKrtUvRM(n[0x01])end);d(t(176,")&=NJUKiz61>H0IgUU"));d(t(234,"%1=^x.PWafutiI(61P^=t.ii(k(I4a1Wiux_PWW.a(WutfIW(i6u6^1t1.(a66aAaffIt(Ixi6(y6S=W1tP..t.I=6xfiu(=(6ru=P^W=6PtW6fxauttI=Wafx1W=(x=x6PuWf=Iutt.I((^6(=1=xx=x=WtW6W=t=.iWP6.66=a^=(.P=WLaWt<t(iW6^It1u=^^6x(x11a^Pt^tt(l(66I===.x(.1PaaafWa6i=iII666!,=I.^6i1.Wuf6t^Iu(tTxIt111f.1P^.Wfiu(i1W=aa1111=6.TxtP(P=attPI1IIIxuxtf5W.(PfafW.t.iPt6(xfat=^xx..6WPaufWt=i1t^iW(P6Px>^PPd.6=L^tizi^Iu6u_fi+x..xPiW^atufi^iI61Iu161i^t^P&a=Mu.txiiI^(t,fF11I^6^a.xP^u1uoPaW6Ow1a=.x_.i.=a=f7aWiaI1(u6(t=iuxI..W=a1f.tiu<IfIf>^=f^u=Pxf0(=auWt1Iu(xfW;(=ux^.fW=.iWmfui.i6Ia6f=fit"));local e=(-11200+(function()local t,n=0,1;(function(e)e(e(e))end)(function(e)if t>405 then return e end t=t+1 n=(n+563)%28789 if(n%1776)>=888 then return e(e(e))else return e end return e end)return n;end)())local s=c.MS_BHAiR or c.ocqDsZcH;local de=(getfenv)or(function()return _ENV end);local d=3;local a=4;local le=1;local l=2;local function j(z,...)local h=t(e,"enN?zZc1S<tM/*:C*1Scz<2/*N<zZZnS*MC*tSN1Cnttc*?LZCNZ*tt!1N?cC1Mn1<?Z<zZ<n1*t<**Z<czMnM<C?NcMMZ1S?Mcc?ZCSM11*V1MCSN1tzN3C/N<nZ1W/<<<ncGNntc<Mc*N<MNM*c:N:C1/nSzz?x:S*ZNn1:,t?ccN{:<tCc/?zC?M?1SznCM/cSNzt=S/<tCZ??MnC*:SnZZD//cS<NSNB:*S:ZcCCCHtS1cL?=j//c:zt*ZMn11N1NN*:tZN/4t/<MZc:nn:z/Z1MN<nnMNS/?Z:Zt:Z*N:NN:/1tc?nZ/tS/z*n*/z/zZ/N/:MS/SZNSn?<SN/CctC1N?ZcZNz:/tK1cNSC/McSzz/<<t?n/*CtN/*</ZCn::zc:Nc:<:Ctn1tCzCHMZS??tPtMt<bZnHc*cStZ<nM:z<SczN*tttN1n?NM1MC1*??C*SMz*nzgn<N1??c*:<:tzZtn:::c*c<N<:St:S,CCBqM1SNzt/:tS11N*CEMM1:Nc:Z:cMNcn/cS*z<w//CK<Mt1tz?J**xSC:tMcc*?{C?Nc:Nttcc)1CMt*1*z1h=/N1/**tzc,N?:cCn:wt?cNC/**tCFn/cSzz1AtnzCCM1SNZN<CcSNN:ZtS*S<1ZCn?:*<Mc<?Z:Sz< ///SCZNc:?*F:cnNt:zt1ct<ccZN/*:<M?z?z:tt1rS/MS:Znnz*1<tz*ZC:cM?c<N/:Cnn*<tczcNZ/ZMZztn?rAMcS8NM</cZnC:NtZM*<:Z?N?:N<Sc1NNC?zcN*/<S/zCcc?*}n/:?:z1P**?SCA*N1*zt<n<N/CnMn1<N*::/N1c?SM1*nScZzwMSc1cZMn::}SSZ*n:<:<1?1/t<zz*n(*?:z/S<F?:>?*?cnZD*Ctc?1nJMt1*z,ZQ?ZCSMtcN?1CSM1c:ZNn?/*<ZZnN_MS</Ztn*:nt*z??<C/M*nn*Z<zZ1ntzzfn*fSM:<t/cC?NCZ*c1M?:rn/z<1ztp**x<zZcn<*/Mn1:NZ:StMSn?nCzM1S/ZgE^/?ScZS}//C<N1MNZ*M<:cnNt:1tMc*znC?Mt1t?/CC/NSMzSf//:<ZZZn1*t<*c1N?:1t<c/?1CNMZ1S?/C:/nSzZ<Nn/*<_Z?n1*<</ZCNN::tSc/N:CzMz11?t}C*NS?zSq<*<SCZNnZ:tt:Z:Nz:zM<ctN*Cb/ZSS?<{HMCSZzZ#S/MS:cMnz*S<tcnNl:ztc1<?W:CMN1ZzSCMMCSnZcn//tS*ZGnz*c<<Z/zCCZtZcSNMC?Mn1:?1_//nS(z?Lc/tS/zCnN%Zt*ZMn::ntCc1?S:*/NSN?cC<M/S zNVZ/SMMcZnn*z<1cNn*:/t?1SNt:/tC1N?cCSMM1:1nnS/1Stz*n1*?<tZ<N:%_tNcZNS:*t:1n?z,</<1*znr?*tS<z/XCCN<SZSn/*:tNcz?}:tMC11??C<M<SN?CUN/ZSSZ/b:*N<zZtnt**tfc??Z:<t/cC?NCZMt1M?:a</zS1zt(:*b<zZcn<:z<CcNNZ:<tMc:?n");local n=0;c.QLFgEyYE(function()c.YfDWlqgH()n=n+1 end)local function e(e,t)if t then return n end;n=e+n;end local t,n,r=f(0,f,e,h,c.RQAZkcby);local function o()local t,n=c.RQAZkcby(h,e(1,3),e(5,6)+2);e(2);return(n*256)+t;end;local b=true;local b=0 local function p()local e=n();local n=n();local d=1;local l=(t(n,1,20)*(2^32))+e;local e=t(n,21,31);local n=((-1)^t(n,32));if(e==0)then if(l==b)then return n*0;else e=1;d=0;end;elseif(e==2047)then return(l==0)and(n*(1/0))or(n*(0/0));end;return c.cyKtgmfC(n,e-1023)*(d+(l/(2^52)));end;local _=n;local function k(n)local t;if(not n)then n=_();if(n==0)then return'';end;end;t=c.kUYrveLb(h,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+b),#t do e=e..c.kUYrveLb(t,n,n)end return e;end;local b=#c.CAJDxXlU(u('\49.\48'))~=1 local e=n;local function y(...)return{...},c.BeOcsnDQ('#',...)end local function ne()local s={};local e={};local u={};local h={u,s,nil,e};local e=n()local f={}for l=1,e do local t=r();local n;if(t==2)then n=(r()~=#{});elseif(t==0)then local e=p();if b and c.ubjTweBl(c.CAJDxXlU(e),'.(\48+)$')then e=c.FDXmaT_y(e);end n=e;elseif(t==3)then n=k();end;f[l]=n;end;h[3]=r();for e=1,n()do s[e-(#{1})]=ne();end;for h=1,n()do local e=r();if(t(e,1,1)==0)then local c=t(e,2,3);local r=t(e,4,6);local e={o(),o(),nil,nil};if(c==0)then e[d]=o();e[a]=o();elseif(c==#{1})then e[d]=n();elseif(c==z[2])then e[d]=n()-(2^16)elseif(c==z[3])then e[d]=n()-(2^16)e[a]=o();end;if(t(r,1,1)==1)then e[l]=f[e[l]]end if(t(r,2,2)==1)then e[d]=f[e[d]]end if(t(r,3,3)==1)then e[a]=f[e[a]]end u[h]=e;end end;return h;end;local function ee(t,n,e)local l=n;local l=e;return u(c.ubjTweBl(c.ubjTweBl(({c.QLFgEyYE(t)})[2],n),e))end local function te(b,e,h)local function ee(...)local r,j,o,g,z,n,u,_,k,p,m,t;local e=0;while-1<e do if 3>e then if e<1 then r=f(6,55,1,81,b);j=f(6,46,2,7,b);else if-1<=e then repeat if 1~=e then n=-41;u=-1;break;end;o=f(6,39,3,25,b);z=y g=0;until true;else o=f(6,39,3,25,b);z=y g=0;end end else if 4>=e then if e~=3 then p=c.BeOcsnDQ('#',...)-1;m={};else _={};k={...};end else if e==6 then e=-2;else t=f(7);end end end e=e+1;end;for e=0,p do if(e>=o)then _[e-o]=k[e+1];else t[e]=k[e+1];end;end;local e=p-o+1 local e;local o;local function f(...)while true do end end while true do if n<-40 then n=n+42 end e=r[n];o=e[le];if o>16 then if 24>=o then if 21<=o then if o<23 then if 20~=o then for f=48,90 do if o<22 then for f=0,6 do if 3<=f then if 4<f then if f>=3 then for o=16,60 do if f~=5 then t[e[l]]=h[e[d]];break;end;t[e[l]][e[d]]=e[a];n=n+1;e=r[n];break;end;else t[e[l]][e[d]]=e[a];n=n+1;e=r[n];end else if f>=0 then repeat if 3~=f then t[e[l]]=h[e[d]];n=n+1;e=r[n];break;end;t[e[l]][e[d]]=e[a];n=n+1;e=r[n];until true;else t[e[l]][e[d]]=e[a];n=n+1;e=r[n];end end else if 1<=f then if f~=-2 then for o=10,81 do if f~=1 then t[e[l]]=h[e[d]];n=n+1;e=r[n];break;end;t[e[l]][e[d]]=e[a];n=n+1;e=r[n];break;end;else t[e[l]][e[d]]=e[a];n=n+1;e=r[n];end else t[e[l]]=h[e[d]];n=n+1;e=r[n];end end end break;end;local n=e[l];local l=t[e[d]];t[n+1]=l;t[n]=l[e[a]];break;end;else local l=e[l];local n=t[e[d]];t[l+1]=n;t[l]=n[e[a]];end else if o==24 then t[e[l]]={};else t[e[l]]=h[e[d]];end end else if 19>o then if o>=15 then for n=17,80 do if o~=17 then h[e[d]]=t[e[l]];break;end;t[e[l]]=(e[d]~=0);break;end;else h[e[d]]=t[e[l]];end else if o~=16 then repeat if o>19 then t[e[l]][e[d]]=e[a];break;end;local n=e[l]local l,e=z(t[n](s(t,n+1,e[d])))u=e+n-1 local e=0;for n=n,u do e=e+1;t[n]=l[e];end;until true;else local n=e[l]local l,e=z(t[n](s(t,n+1,e[d])))u=e+n-1 local e=0;for n=n,u do e=e+1;t[n]=l[e];end;end end end else if o>=29 then if o>=31 then if 31<o then if o>=29 then repeat if o~=32 then local o,b,_,p,m,k,g,f,j,y,c;for f=0,6 do if 3<=f then if 4>=f then if f~=4 then f=0;while f>-1 do if f>2 then if 4<f then if 4<f then for e=44,82 do if f>5 then f=-2;break;end;t(g,k);break;end;else t(g,k);end else if 3==f then k=_[m];else g=_[p];end end else if 0>=f then _=e;else if-2<=f then repeat if f~=1 then m=d;break;end;p=l;until true;else p=l;end end end f=f+1 end n=n+1;e=r[n];else o=e[l]j,y=z(t[o](s(t,o+1,e[d])))u=y+o-1 c=0;for e=o,u do c=c+1;t[e]=j[c];end;n=n+1;e=r[n];end else if f>=2 then repeat if f>5 then t[e[l]]();break;end;o=e[l]t[o]=t[o](s(t,o+1,u))n=n+1;e=r[n];until true;else t[e[l]]();end end else if f>=1 then if-2<f then repeat if 1<f then o=e[l];b=t[e[d]];t[o+1]=b;t[o]=b[e[a]];n=n+1;e=r[n];break;end;t[e[l]]=h[e[d]];n=n+1;e=r[n];until true;else t[e[l]]=h[e[d]];n=n+1;e=r[n];end else t[e[l]]=h[e[d]];n=n+1;e=r[n];end end end break;end;do return end;until true;else local o,_,g,p,j,b,k,f,m,y,c;for f=0,6 do if 3<=f then if 4>=f then if f~=4 then f=0;while f>-1 do if f>2 then if 4<f then if 4<f then for e=44,82 do if f>5 then f=-2;break;end;t(k,b);break;end;else t(k,b);end else if 3==f then b=g[j];else k=g[p];end end else if 0>=f then g=e;else if-2<=f then repeat if f~=1 then j=d;break;end;p=l;until true;else p=l;end end end f=f+1 end n=n+1;e=r[n];else o=e[l]m,y=z(t[o](s(t,o+1,e[d])))u=y+o-1 c=0;for e=o,u do c=c+1;t[e]=m[c];end;n=n+1;e=r[n];end else if f>=2 then repeat if f>5 then t[e[l]]();break;end;o=e[l]t[o]=t[o](s(t,o+1,u))n=n+1;e=r[n];until true;else t[e[l]]();end end else if f>=1 then if-2<f then repeat if 1<f then o=e[l];_=t[e[d]];t[o+1]=_;t[o]=_[e[a]];n=n+1;e=r[n];break;end;t[e[l]]=h[e[d]];n=n+1;e=r[n];until true;else t[e[l]]=h[e[d]];n=n+1;e=r[n];end else t[e[l]]=h[e[d]];n=n+1;e=r[n];end end end end else local n=e[l];local l=t[e[d]];t[n+1]=l;t[n]=l[e[a]];end else if 26<o then for n=34,67 do if 29~=o then t[e[l]]();break;end;local n=e[l];local l=t[n];for e=n+1,e[d]do c.CuscpGeK(l,t[e])end;break;end;else local n=e[l];local l=t[n];for e=n+1,e[d]do c.CuscpGeK(l,t[e])end;end end else if 27>o then if o~=23 then repeat if o~=26 then if(t[e[l]]==e[a])then n=n+1;else n=e[d];end;break;end;t[e[l]]=(e[d]~=0);until true;else if(t[e[l]]==e[a])then n=n+1;else n=e[d];end;end else if 28==o then n=e[d];else local f,r,c,a,o;local n=0;while n>-1 do if n>2 then if 5<=n then if n>4 then repeat if 5<n then n=-2;break;end;t(o,a);until true;else n=-2;end else if n>=0 then repeat if 4>n then a=f[c];break;end;o=f[r];until true;else o=f[r];end end else if 1>n then f=e;else if n>0 then repeat if n<2 then r=l;break;end;c=d;until true;else c=d;end end end n=n+1 end end end end end else if 8>o then if 3<o then if o<6 then if 5>o then t[e[l]][e[d]]=t[e[a]];else t[e[l]]();end else if o>3 then for f=17,55 do if 6<o then if(t[e[l]]==e[a])then n=n+1;else n=e[d];end;break;end;local n=e[l]local l,e=z(t[n](s(t,n+1,e[d])))u=e+n-1 local e=0;for n=n,u do e=e+1;t[n]=l[e];end;break;end;else local n=e[l]local l,e=z(t[n](s(t,n+1,e[d])))u=e+n-1 local e=0;for n=n,u do e=e+1;t[n]=l[e];end;end end else if 2>o then if o>-4 then repeat if o~=1 then local n=e[l];local l=t[n];for e=n+1,e[d]do c.CuscpGeK(l,t[e])end;break;end;n=e[d];until true;else n=e[d];end else if 2==o then t[e[l]]=h[e[d]];else local e=e[l]t[e]=t[e](s(t,e+1,u))end end end else if o<=11 then if o>=10 then if o~=6 then repeat if 11~=o then t[e[l]][e[d]]=t[e[a]];break;end;local o,f,r,a,c;local n=0;while n>-1 do if n>=3 then if n>=5 then if n~=4 then for e=14,57 do if 5~=n then n=-2;break;end;t(c,a);break;end;else n=-2;end else if 4==n then c=o[f];else a=o[r];end end else if n>=1 then if-1<n then repeat if 1<n then r=d;break;end;f=l;until true;else f=l;end else o=e;end end n=n+1 end until true;else t[e[l]][e[d]]=t[e[a]];end else if 8~=o then local o,u,a,s,h,f,z,b;for f=0,4 do if 2>f then if-2<f then for c=39,93 do if 0~=f then f=0;while f>-1 do if 3<=f then if f<=4 then if 4>f then s=o[a];else h=o[u];end else if f>=2 then for e=27,73 do if 5<f then f=-2;break;end;t(h,s);break;end;else f=-2;end end else if 0>=f then o=e;else if-2<f then for e=31,91 do if f>1 then a=d;break;end;u=l;break;end;else a=d;end end end f=f+1 end n=n+1;e=r[n];break;end;t[e[l]]={};n=n+1;e=r[n];break;end;else t[e[l]]={};n=n+1;e=r[n];end else if f>=3 then if f==3 then f=0;while f>-1 do if 3<=f then if f>4 then if 3<f then for e=42,93 do if 6~=f then t(h,s);break;end;f=-2;break;end;else f=-2;end else if f>=1 then repeat if f~=4 then s=o[a];break;end;h=o[u];until true;else h=o[u];end end else if f<1 then o=e;else if f>=-1 then for e=36,61 do if 1~=f then a=d;break;end;u=l;break;end;else a=d;end end end f=f+1 end n=n+1;e=r[n];else z=e[l];b=t[z];for e=z+1,e[d]do c.CuscpGeK(b,t[e])end;end else f=0;while f>-1 do if f>=3 then if f>=5 then if 2<=f then repeat if 6~=f then t(h,s);break;end;f=-2;until true;else f=-2;end else if 2~=f then repeat if 3~=f then h=o[u];break;end;s=o[a];until true;else s=o[a];end end else if f<1 then o=e;else if 2==f then a=d;else u=l;end end end f=f+1 end n=n+1;e=r[n];end end end else do return end;end end else if 14<=o then if o>14 then if o~=13 then for f=21,57 do if o<16 then h[e[d]]=t[e[l]];break;end;for f=0,3 do if f<2 then if f>=-1 then repeat if 0<f then h[e[d]]=t[e[l]];n=n+1;e=r[n];break;end;t[e[l]]=(e[d]~=0);n=n+1;e=r[n];until true;else h[e[d]]=t[e[l]];n=n+1;e=r[n];end else if 2<f then if(t[e[l]]==e[a])then n=n+1;else n=e[d];end;else t[e[l]]=h[e[d]];n=n+1;e=r[n];end end end break;end;else h[e[d]]=t[e[l]];end else t[e[l]]={};end else if 13>o then local e=e[l]t[e]=t[e](s(t,e+1,u))else t[e[l]][e[d]]=e[a];end end end end end n=1+n;end;end;return ee end;local l=0xff;local a={};local o=(1);local d='';(function(n)local t=n local f=0x00 local e=0x00 t={(function(c)if f>0x23 then return c end f=f+1 e=(e+0xbbb-c)%0x3f return(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x63);d='\37';l={function()l()end};d=d..'\100\43';end return true end)'YMtOm'and t[0x2](0x1e1+c))or(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x32);l[2]=(l[2]*(ee(function()a()end,s(d))-ee(l[1],s(d))))+1;a[o]={};l=l[2];o=o+l;end return true end)'bJStU'and t[0x1](c+0x13e))or(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x39);end return true end)'dkzpv'and t[0x3](c+0x118))or c end),(function(r)if f>0x25 then return r end f=f+1 e=(e+0x132d-r)%0x49 return(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0xb5);a[o]=de();o=o+l;end return true end)'diXXa'and t[0x3](0x96+r))or(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0xde);d={d..'\58 a',d};a[o]=ne();o=o+((not c.FowvnQcG)and 1 or 0);d[1]='\58'..d[1];l[2]=0xff;end return true end)'_ktmA'and t[0x1](r+0x130))or(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x27);end return true end)'gwcov'and t[0x2](r+0x1df))or r end),(function(l)if f>0x2d then return l end f=f+1 e=(e+0x11d5-l)%0x49 return(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x0);end return true end)'FduzV'and t[0x3](0x2de+l))or(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x27);end return true end)'quDSv'and t[0x1](l+0x2a3))or(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x6f);end return true end)'EfGOj'and t[0x2](l+0x17f))or l end)}t[0x1](0x281)end){};local e=te(s(a));return e(...);end return j((function()local n={}local e=0x01;local t;if c.FowvnQcG then t=c.FowvnQcG(j)else t=''end if c.ubjTweBl(t,c.oQwutTop)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(t,e,n,l,d,f)local f;if 3>=t then if t>1 then if 3==t then do return e(1),e(4,d,l,n,e),e(5,d,l,n)end;else do return 16777216,65536,256 end;end else if 0==t then do return e(1),e(4,d,l,n,e),e(5,d,l,n)end;else do return function(t,e,n)if n then local e=(t/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(t%(e+e)>=e)and 1 or 0;end;end;end;end end else if t<=5 then if t~=0 then repeat if 4<t then local t=l;do return function()local e=e(n,t(t,t),t(t,t));t(1);return e;end;end;break;end;local t=l;local c,o,l=d(2);do return function()local n,e,d,f=e(n,t(t,t),t(t,t)+3);t(4);return(f*c)+(d*o)+(e*l)+n;end;end;until true;else local t=l;local l,d,c=d(2);do return function()local f,n,o,e=e(n,t(t,t),t(t,t)+3);t(4);return(e*l)+(o*d)+(n*c)+f;end;end;end else if t<7 then do return d[n]end;else if t~=7 then do return n(t,nil,n);end else do return setmetatable({},{['__\99\97\108\108']=function(e,l,t,d,n)if n then return e[n]elseif d then return e else e[l]=t end end})end end end end end end),...)
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+local HumanoidRootPart = Character:WaitForChild("HumanoidRootPart")
+
+-- Создаем интерфейс
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Name = "MM2FarmGui"
+ScreenGui.Parent = game.CoreGui
+
+local Frame = Instance.new("Frame")
+Frame.Size = UDim2.new(0, 200, 0, 100)
+Frame.Position = UDim2.new(0.5, -100, 0.5, -50)
+Frame.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+Frame.BorderSizePixel = 0
+Frame.Parent = ScreenGui
+
+local Title = Instance.new("TextLabel")
+Title.Text = "Auto Farm MM2 Beach Balls"
+Title.Size = UDim2.new(1, 0, 0, 30)
+Title.Position = UDim2.new(0, 0, 0, 0)
+Title.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title.Font = Enum.Font.SourceSansBold
+Title.Parent = Frame
+
+local FarmButton = Instance.new("TextButton")
+FarmButton.Text = "Farm"
+FarmButton.Size = UDim2.new(0.8, 0, 0, 40)
+FarmButton.Position = UDim2.new(0.1, 0, 0.4, 0)
+FarmButton.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+FarmButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+FarmButton.Font = Enum.Font.SourceSansBold
+FarmButton.Parent = Frame
+
+-- Переменные для фарма
+local isFarming = false
+local farmConnection = nil
+
+-- Анти-АФК
+local VirtualUser = game:GetService("VirtualUser")
+LocalPlayer.Idled:Connect(function()
+    VirtualUser:CaptureController()
+    VirtualUser:ClickButton2(Vector2.new())
+end)
+
+-- Функция для поиска текущей карты
+local function findMap()
+    for _, obj in ipairs(workspace:GetDescendants()) do
+        if obj:IsA("Model") and obj:GetAttribute("MapID") then
+            return obj
+        end
+    end
+    return nil
+end
+
+-- Функция для поиска мячика BeachBall
+local function findBeachBall(mapModel)
+    if not mapModel then return nil end
+    local coinContainer = mapModel:FindFirstChild("CoinContainer")
+    if not coinContainer then return nil end
+    
+    for _, coin in ipairs(coinContainer:GetChildren()) do
+        if coin:IsA("Part") and coin.Name == "Coin_Server" and coin:GetAttribute("CoinID") == "BeachBall" then
+            local coinVisual = coin:FindFirstChild("CoinVisual")
+            if coinVisual and coinVisual.Transparency ~= 1 then
+                return coin
+            end
+        end
+    end
+    return nil
+end
+
+-- Настраиваем тело в вертикальное положение
+local function setupVerticalPosition()
+    if not Character:FindFirstChild("Humanoid") then return nil, nil end
+    
+    -- Отключаем анимации
+    for _, track in ipairs(Character.Humanoid:GetPlayingAnimationTracks()) do
+        track:Stop()
+    end
+    
+    -- Фиксируем положение
+    local bodyGyro = Instance.new("BodyGyro")
+    bodyGyro.Name = "FarmGyro"
+    bodyGyro.P = 10000
+    bodyGyro.D = 100
+    bodyGyro.MaxTorque = Vector3.new(100000, 100000, 100000)
+    bodyGyro.CFrame = CFrame.new(HumanoidRootPart.Position, HumanoidRootPart.Position + Vector3.new(0, 0, -1))
+    bodyGyro.Parent = HumanoidRootPart
+    
+    local bodyVelocity = Instance.new("BodyVelocity")
+    bodyVelocity.Name = "FarmVelocity"
+    bodyVelocity.Velocity = Vector3.new(0, 0, 0)
+    bodyVelocity.MaxForce = Vector3.new(100000, 100000, 100000)
+    bodyVelocity.Parent = HumanoidRootPart
+    
+    return bodyGyro, bodyVelocity
+end
+
+-- Функция для очистки физических эффектов
+local function cleanupPhysics()
+    if HumanoidRootPart:FindFirstChild("FarmGyro") then
+        HumanoidRootPart.FarmGyro:Destroy()
+    end
+    if HumanoidRootPart:FindFirstChild("FarmVelocity") then
+        HumanoidRootPart.FarmVelocity:Destroy()
+    end
+end
+
+-- Основная функция фарма
+local function farmLoop()
+    local bodyGyro, bodyVelocity = setupVerticalPosition()
+    local lastPosition = HumanoidRootPart.Position
+    
+    while isFarming do
+        task.wait(0.05) -- Скорость ~20
+        
+        -- Обновляем ссылки на случай смерти
+        if not Character or not Character.Parent then
+            Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+            HumanoidRootPart = Character:WaitForChild("HumanoidRootPart")
+            bodyGyro, bodyVelocity = setupVerticalPosition()
+            lastPosition = HumanoidRootPart.Position
+        end
+        
+        -- Ищем карту и мячик
+        local map = findMap()
+        local beachBall = findBeachBall(map)
+        
+        if beachBall then
+            -- Телепортируемся к мячику
+            HumanoidRootPart.CFrame = CFrame.new(beachBall.Position) * CFrame.new(0, 0, 0)
+            task.wait(0.05)
+            -- Возвращаемся на исходную позицию
+            HumanoidRootPart.CFrame = CFrame.new(lastPosition)
+        else
+            -- Если мячика нет, стоим на месте
+            HumanoidRootPart.CFrame = CFrame.new(lastPosition)
+        end
+    end
+    
+    cleanupPhysics()
+end
+
+-- Обработчик нажатия кнопки
+FarmButton.MouseButton1Click:Connect(function()
+    isFarming = not isFarming
+    
+    if isFarming then
+        FarmButton.Text = "Farming..."
+        FarmButton.BackgroundColor3 = Color3.fromRGB(0, 170, 0)
+        spawn(farmLoop)
+    else
+        FarmButton.Text = "Farm"
+        FarmButton.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+    end
+end)
+
+-- Обработчик изменения персонажа
+LocalPlayer.CharacterAdded:Connect(function(newChar)
+    Character = newChar
+    HumanoidRootPart = Character:WaitForChild("HumanoidRootPart")
+    
+    if isFarming then
+        -- Если фарм активен, перезапускаем его для нового персонажа
+        spawn(farmLoop)
+    end
+end)
